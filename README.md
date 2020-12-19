@@ -12,8 +12,6 @@ HOW TO RUN:
 
 5. Open the terminal and type python login.py to run program.
 
-"You have to create your own database".
-
 Software Requirements:
 ----------------------
 
